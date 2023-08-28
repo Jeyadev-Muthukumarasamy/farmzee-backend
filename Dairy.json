@@ -1,0 +1,35 @@
+[
+    {
+      "id": 11,
+      "name": "Milk",
+      "price": 2.5,
+      "usernames": "Emily Smith",
+      "location": "London",
+      "image": "milk.jpg"
+    },
+    {
+      "id": 12,
+      "name": "Cheese",
+      "price": 3.0,
+      "usernames": "Michael Johnson",
+      "location": "New York",
+      "image": "cheese.jpg"
+    },
+    {
+      "id": 13,
+      "name": "Yogurt",
+      "price": 1.8,
+      "usernames": "Sarah Williams",
+      "location": "Chicago",
+      "image": "yogurt.jpg"
+    },
+    {
+      "id": 14,
+      "name": "Butter",
+      "price": 2.2,
+      "usernames": "John Doe",
+      "location": "Los Angeles",
+      "image": "butter.jpg"
+    }
+  ]
+  

@@ -1,0 +1,69 @@
+[
+    {
+      "id": 1,
+      "title": "Carrot",
+      "price": "Rs 10",
+      "location": "Farmers Market",
+      "farmerName": "John Doe",
+      "images": [
+        "https://fakestoreapi.com/img/81fPKd-2AYL._AC_SL1500_.jpg",
+    "https://fakestoreapi.com/img/81Mx6TetV2L._AC_UL640_QL65_ML3_.jpg"
+      ]
+    },
+    {
+      "id": 2,
+      "title": "Beetroot",
+      "price": "Rs 15",
+      "location": "Organic Store",
+      "farmerName": "Jane Smith",
+      "images": [
+        "https://example.com/beetroot1.jpg",
+        "https://example.com/beetroot2.jpg"
+      ]
+    },
+    {
+      "id": 3,
+      "title": "Tomato",
+      "price": "Rs 8",
+      "location": "Local Market",
+      "farmerName": "David Johnson",
+      "images": [
+        "https://example.com/tomato1.jpg",
+        "https://example.com/tomato2.jpg"
+      ]
+    },
+    {
+      "id": 4,
+      "title": "Potato",
+      "price": "Rs 12",
+      "location": "Farmers Market",
+      "farmerName": "Emily Brown",
+      "images": [
+        "https://example.com/potato1.jpg",
+        "https://example.com/potato2.jpg"
+      ]
+    },
+    {
+      "id": 5,
+      "title": "Brinjal",
+      "price": "Rs 6",
+      "location": "Local Market",
+      "farmerName": "Michael Wilson",
+      "images": [
+        "https://example.com/brinjal1.jpg",
+        "https://example.com/brinjal2.jpg"
+      ]
+    },
+    {
+      "id": 6,
+      "title": "Onion",
+      "price": "Rs 7",
+      "location": "Farmers Market",
+      "farmerName": "Sarah Davis",
+      "images": [
+        "https://example.com/onion1.jpg",
+        "https://example.com/onion2.jpg"
+      ]
+    }
+  ]
+  

@@ -1,0 +1,83 @@
+[
+    {
+      "id": 1,
+      "name": "Grapes",
+      "price": 1.5,
+      "usernames": "John Doe",
+      "location": "London",
+      "image": "grapes.jpg"
+    },
+    {
+      "id": 2,
+      "name": "Pineapple",
+      "price": 0.9,
+      "usernames": "Mike Johnson",
+      "location": "Chicago",
+      "image": "pineapple.jpg"
+    },
+    {
+      "id": 3,
+      "name": "Orange",
+      "price": 1.2,
+      "usernames": "Sarah Williams",
+      "location": "Los Angeles",
+      "image": "orange.jpg"
+    },
+    {
+      "id": 4,
+      "name": "Apple",
+      "price": 1.0,
+      "usernames": "Jane Smith",
+      "location": "New York",
+      "image": "apple.jpg"
+    },
+    {
+      "id": 5,
+      "name": "Banana",
+      "price": 2.0,
+      "usernames": "David Lee",
+      "location": "San Francisco",
+      "image": "banana.jpg"
+    },
+    {
+      "id": 6,
+      "name": "Mango",
+      "price": 1.2,
+      "usernames": "Emily Brown",
+      "location": "Toronto",
+      "image": "mango.jpg"
+    },
+    {
+      "id": 7,
+      "name": "Pear",
+      "price": 1.5,
+      "usernames": "Michael Davis",
+      "location": "Sydney",
+      "image": "pear.jpg"
+    },
+    {
+      "id": 8,
+      "name": "Strawberry",
+      "price": 1.3,
+      "usernames": "John Doe",
+      "location": "London",
+      "image": "strawberry.jpg"
+    },
+    {
+      "id": 9,
+      "name": "Watermelon",
+      "price": 1.0,
+      "usernames": "Mike Johnson",
+      "location": "Chicago",
+      "image": "watermelon.jpg"
+    },
+    {
+      "id": 10,
+      "name": "Kiwi",
+      "price": 1.2,
+      "usernames": "Sarah Williams",
+      "location": "Los Angeles",
+      "image": "kiwi.jpg"
+    }
+  ]
+  

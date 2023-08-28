@@ -1,0 +1,35 @@
+[
+    {
+      "id": 21,
+      "name": "Organic Fertilizer",
+      "price": 5.0,
+      "usernames": "Emily Smith",
+      "location": "London",
+      "image": "organic_fertilizer.jpg"
+    },
+    {
+      "id": 22,
+      "name": "Compound Fertilizers",
+      "price": 4.5,
+      "usernames": "Michael Johnson",
+      "location": "New York",
+      "image": "compound_fertilizers.jpg"
+    },
+    {
+      "id": 23,
+      "name": "Liquid Fertilizer",
+      "price": 6.0,
+      "usernames": "Sarah Williams",
+      "location": "Chicago",
+      "image": "liquid_fertilizer.jpg"
+    },
+    {
+      "id": 24,
+      "name": "Slow-Release Fertilizer",
+      "price": 5.5,
+      "usernames": "John Doe",
+      "location": "Los Angeles",
+      "image": "slow_release_fertilizer.jpg"
+    }
+  ]
+  

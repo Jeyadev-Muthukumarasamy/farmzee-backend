@@ -1,0 +1,73 @@
+[
+  {
+    "id": 1,
+    "name": "Carrot",
+    "price": 1.5,
+    "usernames": "John Doe",
+    "location": "London"
+  },
+  {
+    "id": 2,
+    "name": "Onion",
+    "price": 0.9,
+    "usernames": "Mike Johnson",
+    "location": "Chicago"
+  },  
+  {
+    "id": 3,
+    "name": "Beetroot",
+    "price": 1.1,
+    "usernames": "Sarah Williams",
+    "location": "Los Angeles"
+  },
+  {
+    "id": 4,
+    "name": "Potato",
+    "price": 1.0,
+    "usernames": "Jane Smith",
+    "location": "New York"
+  },
+  {
+    "id": 5,
+    "name": "Tomato",
+    "price": 2.0,
+    "usernames": "David Lee",
+    "location": "San Francisco"
+  },
+  {
+    "id": 6,
+    "name": "Cabbage",
+    "price": 1.2,
+    "usernames": "Emily Brown",
+    "location": "Toronto"
+  },
+  {
+    "id": 7,
+    "name": "Brinjal",
+    "price": 1.5,
+    "usernames": "Michael Davis",
+    "location": "Sydney"
+  },
+  {
+    "id": 8,
+    "name": "Carrot",
+    "price": 1.3,
+    "usernames": "John Doe",
+    "location": "London"
+  },
+  {
+    "id": 9,
+    "name": "Onion",
+    "price": 1.0,
+    "usernames": "Mike Johnson",
+    "location": "Chicago"
+  },
+  {
+    "id": 10,
+    "name": "Beetroot",
+    "price": 1.2,
+    "usernames": "Sarah Williams",
+    "location": "Los Angeles"
+  }
+
+]
